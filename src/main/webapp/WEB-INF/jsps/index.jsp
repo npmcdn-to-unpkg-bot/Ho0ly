@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>主页</title>
     <script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
-    <script type="text/javascript" src="https://npmcdn.com/vue/dist/vue.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/vue/dist/vue.js"></script>
 
 </head>
 <body>
